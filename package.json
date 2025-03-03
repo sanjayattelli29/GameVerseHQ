@@ -79,7 +79,7 @@
         "eslint-plugin-react-refresh": "^0.4.14",
         "globals": "^16.0.0",
         "postcss": "^8.4.49",
-        "prettier": "^3.4.1",
+        "prettier": "^3.5.3",
         "prettier-plugin-tailwindcss": "^0.6.9",
         "tailwind-merge": "^3.0.1",
         "tailwindcss": "^3.4.15",
